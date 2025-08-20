@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(jcc120spoof CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(zygisk-jcc120spoof SHARED zygisk.cpp)
+target_link_libraries(zygisk-jcc120spoof log)

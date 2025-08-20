@@ -1,0 +1,8 @@
+id=jcc120spoof
+name=JCC 120fps Device Spoofer (Zygisk)
+version=1.0.0
+versionCode=100
+author=ChatGPT
+description=Spoofs device identity ONLY for com.tencent.jkchess to mimic a 120/165fps whitelisted phone (NX709S or ASUS_AI2201_B). Requires Magisk with Zygisk.
+minMagisk=24000
+supports=arm64-v8a

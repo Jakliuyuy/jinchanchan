@@ -1,0 +1,24 @@
+{
+  "package": "com.tencent.jkchess",
+  "profile": "NX709S",
+  "profiles": {
+    "NX709S": {
+      "BRAND": "nubia",
+      "MANUFACTURER": "nubia",
+      "MODEL": "NX709S",
+      "DEVICE": "NX709S",
+      "PRODUCT": "NX709S",
+      "BOARD": "kona",
+      "FINGERPRINT": "nubia/NX709S/NX709S:13/TKQ1.221013.002/20230914:user/release-keys"
+    },
+    "ASUS_AI2201_B": {
+      "BRAND": "asus",
+      "MANUFACTURER": "asus",
+      "MODEL": "ASUS_AI2201_B",
+      "DEVICE": "ASUS_AI2201_B",
+      "PRODUCT": "ASUS_AI2201_B",
+      "BOARD": "taro",
+      "FINGERPRINT": "asus/ASUS_AI2201/ASUS_AI2201_B:13/TKQ1.221013.002/33.0610.2810.177:user/release-keys"
+    }
+  }
+}
